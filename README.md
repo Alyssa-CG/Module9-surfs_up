@@ -31,8 +31,7 @@ This information suggests that an ice cream shop on Oahu may do better in June t
 
 ## Recommendations
 
-It would be really valuable to use coduct further analyses on this data to garner more information. 
-* For example, it would be worth considering:  
+* It would be valuable to conduct further analyses as it is worth considering:  
     * Average precipitation throughout the year
     * Average temperatures throughout the year
     * Frequency of tropical storms, hurricanes and other potential natural disasters.
@@ -42,8 +41,10 @@ It would be really valuable to use coduct further analyses on this data to garne
 
 For further visualization, precipitation scores and temperatures were each grouped by month, averaged, and plotted on line graphs to quickly and easily show W. Avy the averages throughout the year, based on the January 2010 to August 2017 data he provided. 
 
-These charts are included below.
-
 ![Precipitation chart](https://github.com/Alyssa-CG/Module9-surfs_up/blob/master/Figures/Average%20Precipitation.png)
 
 ![Temperatures chart](https://github.com/Alyssa-CG/Module9-surfs_up/blob/master/Figures/Average%20Temperatures.png)
+
+These charts above show the spikes that occur in rainfall in March and December when the temperatures are also at some of their lowest values. These may be the most difficult times to sell ice cream. The second chart also shows that July to September are the warmest months, so, despite a small increase in rainfall in July, these months may be the most likely to be sucessful or profitable for the ice cream shop. 
+
+Based on this data I would recommend that W. Avy agree to open the ice cream shop with an opening date between April to June, immediately before peak ice-cream selling season, but be prepared for some fluctuations in ice cream sales throughout the year.
