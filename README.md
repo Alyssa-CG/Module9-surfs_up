@@ -34,8 +34,9 @@ This information suggests that an ice cream shop on Oahu may do better in June t
 * It would be valuable to conduct further analyses as it is worth considering:  
     * Average precipitation throughout the year
     * Average temperatures throughout the year
-    * Frequency of tropical storms, hurricanes and other potential natural disasters.
     * Whether the stations are located in different areas of Oahu and represent any differences in rainfall and temperature in those areas
+        * This is potentially feasible as the database does include columns for latitude, longtitude and elevation
+    * Frequency of tropical storms, hurricanes and other potential natural disasters.
     * How different rain and weather conditions on the other Hawaiian islands can influence the location (does it have to be on Oahu? If on Oahu are there times of the year when persons are more likely to visit the other islands? Does that affect tourism to all islands including Oahu? Can we consider a location near to a means of inter-island travel?)
     * Any data on locations of other successful businesses on Oahu (are there high traffic local areas or are tourist locations like Waikiki beach more likely to be successful?)
 
@@ -47,4 +48,4 @@ For further visualization, precipitation scores and temperatures were each group
 
 These charts above show the spikes that occur in rainfall in March and December when the temperatures are also at some of their lowest values. These may be the most difficult times to sell ice cream. The second chart also shows that July to September are the warmest months, so, despite a small increase in rainfall in July, these months may be the most likely to be sucessful or profitable for the ice cream shop. 
 
-Based on this data I would recommend that W. Avy agree to open the ice cream shop with an opening date between April to June, immediately before peak ice-cream selling season, but be prepared for some fluctuations in ice cream sales throughout the year.
+Based on theses analyses only, I would recommend that W. Avy agree to open the ice cream shop with an opening date between April to June, immediately before peak ice-cream selling season, but be prepared for some fluctuations in ice cream sales throughout the year.
